@@ -1,2 +1,5 @@
 Managing Memory - 
 One of the functions of an operating system is to manage the primary memory and main memory of a system. The OS will accomplish this by keeping track of the primary memory, and designate which bytes are used for which programs. There are many bytes in the system, and keeping them all organized is no easy task!
+
+File Management - 
+Another function of the operating system is to organize the local files on your system's storage. The OS will keep track of where information is stored, including projects, program files, and user data. Files can even be grouped together to organize them even further, providing quick access to important documents.

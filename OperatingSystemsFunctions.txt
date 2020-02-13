@@ -1,1 +1,2 @@
-
+Managing Memory - 
+One of the functions of an operating system is to manage the primary memory and main memory of a system. The OS will accomplish this by keeping track of the primary memory, and designate which bytes are used for which programs. There are many bytes in the system, and keeping them all organized is no easy task!
